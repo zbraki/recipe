@@ -1,3 +1,5 @@
+Let's begin!
+
 ### Ingredients
 - 1 cup salted butter softened
 - 1 cup granulated sugar
@@ -9,3 +11,5 @@
 - ½ teaspoon baking powder
 - 1 teaspoon sea salt
 - 2 cups chocolate chips (14 oz)
+
+Enjoy my recipe!
