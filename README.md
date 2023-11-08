@@ -1,4 +1,5 @@
 ### This is a LOCAL change :)
+### Testing abort merge - LOCAL
 # recipe
 line 2 changed remotely
 ### The Best Chocolate Chip Cookie Recipe Ever
