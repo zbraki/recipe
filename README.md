@@ -27,7 +27,7 @@ The recipe can be found online at https://joyfoodsunshine.com/the-most-amazing-c
 - 1 teaspoon sea salt
 - 2 cups chocolate chips (14 oz)
 
-![Image for the recipe](recipe/recipe.jpg)
+![Image for the recipe](recipe.jpg)
 
 
 ## This is the old README.md text:
